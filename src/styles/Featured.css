@@ -1,0 +1,11 @@
+.feature-container{
+    height: 560px;
+    background-color: #F42015;
+}
+
+@media (max-width: 768px) {
+    .feature-container{
+        height: 196px;
+        background-color: #F42015;
+    }
+}

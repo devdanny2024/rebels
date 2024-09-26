@@ -2,7 +2,11 @@ const Featured = () => {
 
 
     return (
-     <></>
+     <>
+      <div className="feature-container">
+
+      </div>
+     </>
     );
   };
   
