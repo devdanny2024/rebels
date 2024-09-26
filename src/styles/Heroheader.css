@@ -58,7 +58,7 @@
 }
 @media (max-width: 768px) {
     .hero-container{
-        height: 832px;
+        height: 796px;
         flex-direction: column;
     }
     .cta-container{
